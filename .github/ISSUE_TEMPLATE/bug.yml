@@ -1,0 +1,50 @@
+name: Report a problem
+description: Something isn't working as expected.
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you try, and what went wrong?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to see it again
+      placeholder: |
+        1. Asked my AI to ...
+        2. ...
+  - type: input
+    id: version
+    attributes:
+      label: Veymelo version
+      description: Ask your AI to run `npx veymelo@latest --version`.
+      placeholder: 1.2.0
+  - type: dropdown
+    id: ai
+    attributes:
+      label: Which AI did you use?
+      options:
+        - Claude Code
+        - Codex
+        - Cursor
+        - Gemini CLI
+        - Other
+  - type: input
+    id: os
+    attributes:
+      label: Computer
+      placeholder: macOS 15, Windows 11, Ubuntu 24.04 ...
+  - type: input
+    id: browser
+    attributes:
+      label: Browser
+      placeholder: Chrome 140
+  - type: textarea
+    id: doctor
+    attributes:
+      label: Check output (optional)
+      description: Ask your AI to run `npx veymelo@latest doctor` and paste the result.
+      render: text

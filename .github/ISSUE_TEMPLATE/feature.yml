@@ -1,0 +1,14 @@
+name: Suggest a feature
+description: An idea that would make Veymelo better.
+labels: [enhancement]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: What would it help you make?
