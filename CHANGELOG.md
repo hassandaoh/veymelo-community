@@ -1,5 +1,9 @@
 # What's new
 
+## 1.2.1
+- Easier to find: clearer package description and links.
+- Support Veymelo at [veymelo.com/support](https://veymelo.com/support).
+
 ## 1.2.0
 - `npx veymelo@latest` on its own sets everything up.
 - Your AI remembers Veymelo for future video work (Claude Code, Codex and

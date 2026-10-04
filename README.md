@@ -2,8 +2,13 @@
 
 Brief your AI. Get a video.
 
-Veymelo lets the AI you already use make videos for you, while you watch them
-come together live at [veymelo.com](https://veymelo.com).
+Veymelo lets the AI you already use (Claude Code, Codex, Cursor or Gemini CLI)
+make videos for you: TikTok, Reels and Shorts clips, YouTube videos, ads,
+product launches, explainers, captioned edits and motion graphics in 2D, 2.5D or
+3D styles. You watch them come together live at [veymelo.com](https://veymelo.com)
+and get an MP4.
+
+![Veymelo: brief your AI, get a video.](https://veymelo.com/og.png)
 
 ## Get started
 
@@ -21,6 +26,7 @@ Then build a brief at [veymelo.com](https://veymelo.com) and paste it to your AI
 - Something not working? [Report an issue](https://github.com/hassandaoh/veymelo-community/issues/new?template=bug.yml)
 - Have an idea? [Suggest a feature](https://github.com/hassandaoh/veymelo-community/issues/new?template=feature.yml)
 - What changed: [CHANGELOG](CHANGELOG.md)
+- Like it? [Support Veymelo](https://veymelo.com/support)
 
 To remove the Veymelo skill from your AI tools, ask your AI to run
 `npx veymelo@latest skill remove`.
