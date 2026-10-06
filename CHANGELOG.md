@@ -1,5 +1,13 @@
 # What's new
 
+## 2.6.0
+- Your AI tells the story in motion, not in slides: one thing the eye
+  follows from start to finish, changing as the story turns, instead of
+  screens one after another.
+- The story's beats show on the timeline.
+- You see the whole story first as poses held at their beats, then each
+  move between them filled in, one at a time, until the video flows.
+
 ## 2.5.0
 - Templates come first: before your AI starts, you choose the ones it should
   learn from (as many as you like, or none), and it reads them before it
