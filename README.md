@@ -19,7 +19,9 @@ npx veymelo@latest
 ```
 
 Your AI sets everything up and replies **"Veymelo is ready"** with a link.
-Then build a brief at [veymelo.com](https://veymelo.com) and paste it to your AI.
+Then tell it what you want, or start from a template: download one at
+[veymelo.com](https://veymelo.com/#templates) and give the folder to your AI.
+All templates: [veymelo-templates](https://github.com/hassandaoh/veymelo-templates).
 
 ## Help and feedback
 

@@ -1,5 +1,14 @@
 # What's new
 
+## 2.1.0
+- Templates: finished videos as code that your AI can start from and make its
+  own. Download one at [veymelo.com](https://veymelo.com/#templates) and give
+  the folder to your AI, or ask your AI for one by name. Every template lives
+  in [veymelo-templates](https://github.com/hassandaoh/veymelo-templates).
+- Your AI works faster: the craft is there when it needs it, and no step asks
+  it to read first.
+- The brief builder on veymelo.com makes way for the templates.
+
 ## 2.0.0
 - Veymelo is now a studio where your AI works the way an artist does, one
   step at a time: it studies your material, plans how to tell it (you
