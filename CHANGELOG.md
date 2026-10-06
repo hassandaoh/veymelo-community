@@ -1,5 +1,13 @@
 # What's new
 
+## 2.5.0
+- Templates come first: before your AI starts, you choose the ones it should
+  learn from (as many as you like, or none), and it reads them before it
+  studies your material.
+- Your AI makes each element and puts it in place before it starts the next.
+- When the video is made, your AI stops and sends you the studio link to
+  watch it; export it from the studio when you are happy.
+
 ## 2.4.0
 - After your AI studies your material, you choose the templates it should
   learn from: as many as you like, or none. It reads them before it plans,
