@@ -1,5 +1,11 @@
 # What's new
 
+## 2.3.2
+- Approve the plan and the studio opens at once, so you watch your AI make
+  the video; if your AI stopped waiting, the studio says so.
+- Nothing is rendered before you have watched it: your AI shows you the
+  finished video in the studio, with a link, and renders when you say so.
+
 ## 2.3.1
 - Your AI's study shows in the viewer from its very first step: each step
   has its figure at work, and each page of notes appears the moment it is
