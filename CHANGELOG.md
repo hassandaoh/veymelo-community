@@ -1,5 +1,11 @@
 # What's new
 
+## 2.2.0
+- Templates load faster, for your AI and on veymelo.com: straight from GitHub,
+  only the template you pick.
+- Saving a template into the templates folder updates its list, so it shows on
+  veymelo.com within minutes of being pushed.
+
 ## 2.1.0
 - Templates: finished videos as code that your AI can start from and make its
   own. Download one at [veymelo.com](https://veymelo.com/#templates) and give
