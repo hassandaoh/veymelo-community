@@ -1,5 +1,12 @@
 # What's new
 
+## 2.3.3
+- Your answer to the plan is kept in your project the moment you give it:
+  the template you chose, your brief and the plan you approved. Your AI
+  reads it even if it had stopped waiting, and the studio opens as soon as
+  it has.
+- Your AI then plans the video on the template you chose.
+
 ## 2.3.2
 - Approve the plan and the studio opens at once, so you watch your AI make
   the video; if your AI stopped waiting, the studio says so.
