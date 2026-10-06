@@ -1,5 +1,17 @@
 # What's new
 
+## 2.3.0
+- Watch your AI study. While it gets to know your project, the viewer shows
+  every step it takes, the one it is on at work, and each page of its notes
+  the moment it finishes it.
+- Approve the plan in the viewer. Your AI's plan appears there as it wrote
+  it, with the templates closest to it: choose one, or none, and press OK.
+  Anything to change, tell your AI in the chat.
+- Your AI works in the open, one file at a time, so you see each piece as it
+  is done.
+- A new look: black and white hairlines, drawn as you watch, on veymelo.com
+  and in the viewer.
+
 ## 2.2.1
 - A template updated a moment ago downloads right away, always complete.
 
