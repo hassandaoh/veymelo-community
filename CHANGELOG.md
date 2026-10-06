@@ -1,5 +1,14 @@
 # What's new
 
+## 2.3.1
+- Your AI's study shows in the viewer from its very first step: each step
+  has its figure at work, and each page of notes appears the moment it is
+  written.
+- The plan you approve is short: the idea, the screens and the templates
+  closest to it. Your AI designs the rest on the template you choose.
+- Once you approve, the viewer opens the studio, and over the preview it
+  shows the step your AI is on and what it is doing.
+
 ## 2.3.0
 - Watch your AI study. While it gets to know your project, the viewer shows
   every step it takes, the one it is on at work, and each page of its notes
