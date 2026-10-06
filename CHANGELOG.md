@@ -1,5 +1,8 @@
 # What's new
 
+## 2.2.1
+- A template updated a moment ago downloads right away, always complete.
+
 ## 2.2.0
 - Templates load faster, for your AI and on veymelo.com: straight from GitHub,
   only the template you pick.
