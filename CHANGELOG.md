@@ -1,5 +1,14 @@
 # What's new
 
+## 2.4.0
+- After your AI studies your material, you choose the templates it should
+  learn from: as many as you like, or none. It reads them before it plans,
+  and makes your video new, its own.
+- Your choice is kept in your project the moment you make it; the studio
+  opens as soon as your AI has read it, and your AI plans and makes the
+  video without waiting for another yes.
+- Nothing is rendered before you have watched the finished video.
+
 ## 2.3.3
 - Your answer to the plan is kept in your project the moment you give it:
   the template you chose, your brief and the plan you approved. Your AI
