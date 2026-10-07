@@ -1,5 +1,16 @@
 # What's new
 
+## 2.7.0
+- Fewer, bigger steps: your AI plans the whole video on one page, then makes
+  it beat by beat, without stopping to answer questions at every step.
+- Veymelo reviews the work at two points, the templates and the final
+  polish, and sends it back until it is right; your AI fixes it and carries
+  on by itself, without stopping to ask you.
+- To change something made earlier, your AI goes back to the step that made
+  it and works forward again, so nothing is patched over at the end.
+- Each page and each finished piece reaches the studio as soon as its step
+  is done, and a version is saved at every step.
+
 ## 2.6.0
 - Your AI tells the story in motion, not in slides: one thing the eye
   follows from start to finish, changing as the story turns, instead of
