@@ -1,5 +1,14 @@
 # What's new
 
+## 2.9.0
+- Your AI picks the templates that fit what you asked for by itself, and
+  asks you to choose only when it cannot tell.
+- No more review rounds: your AI goes from step to step on its own, and the
+  final polish step is gone. When the last step is done, it sends you the
+  studio link and stops.
+- Asking for a change after the video is finished still works the same way:
+  your AI goes back to the step that made it and works forward again.
+
 ## 2.8.0
 - Your AI makes the video one piece at a time: first the one thing your eye
   follows, from where it starts to where it ends, then each other piece
