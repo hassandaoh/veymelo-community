@@ -1,5 +1,15 @@
 # What's new
 
+## 2.8.0
+- Your AI makes the video one piece at a time: first the one thing your eye
+  follows, from where it starts to where it ends, then each other piece
+  added to it. The video moves as one scene instead of a row of slides.
+- Each piece shows up in the studio as soon as it is done.
+- The final review sends your AI back to look closely at the layers of the
+  picture, what is in front and what is behind, and fix them piece by piece.
+- Asking for a change after the video is finished works the same way: your
+  AI goes back to the piece that made it and works forward again.
+
 ## 2.7.0
 - Fewer, bigger steps: your AI plans the whole video on one page, then makes
   it beat by beat, without stopping to answer questions at every step.
